@@ -1,11 +1,11 @@
 <?php
 
-$integer = 7;
-$float = 10.5;
-$string ="Ciao sono Andrea";
-$boolean = true;
+const INTERO = 7;
+const DECIMALE = 10.5;
+const STRINGA = "Ciao sono Andrea";
+const BOOLEANO = true;
 
-var_dump($integer);
-var_dump($float);
-var_dump($string);
-var_dump($boolean);
+var_dump(INTERO);
+var_dump(DECIMALE);
+var_dump(STRINGA);
+var_dump(BOOLEANO);
